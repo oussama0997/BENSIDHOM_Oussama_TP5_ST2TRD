@@ -1,0 +1,18 @@
+Part 1: Questions
+
+1- This code is about managing the stock and its quality over days.
+
+2- All the goods stored in the Guilded Rose can be identified clearly.
+
+3- When the day is over the sellin decreases by 1 and the quality change either by decreasing 
+ or by increasing (by 1 or by 2).
+
+4- The sellin decreases by 1 each day, When the sellin is positive the quality increases
+ by 1 and when the sellin is negative the quality increases by 2 until it reaches 50.
+
+5- when a concert ticket goes over its expiration day its quality will be 0.
+
+6- The excess of if conditions which are not well organized make this code difficult to read.
+
+7- I don't think that the rules are are clear enough so that you could rework the entire 
+ solution from scratch.
